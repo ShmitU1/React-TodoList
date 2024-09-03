@@ -4,7 +4,7 @@ My project is a simple todo list that was built on the reacta library.... after 
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://shmitu1.github.io/React-TodoList/
 
 ## My process
 
